@@ -17,6 +17,7 @@ Chrome extension, which replaces *Benedict Cumberbatch* by silly names.
 Go to: [Chrome Extensions](chrome://extensions)
 
 ![Screenshot](https://imgur.com/Y6UdEYv)
+
 ![Screenshot](https://imgur.com/dxtCq2P)
 
 _That's it!_
