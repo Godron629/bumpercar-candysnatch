@@ -14,7 +14,7 @@ Chrome extension, which replaces *Benedict Cumberbatch* by silly names.
 
 ## How to Install 
 
-Go to: [Chrome Extensions](chrome://extensions)
+Go to: chrome://extensions
 
 ![Screenshot](https://i.imgur.com/Y6UdEYv.png)
 
